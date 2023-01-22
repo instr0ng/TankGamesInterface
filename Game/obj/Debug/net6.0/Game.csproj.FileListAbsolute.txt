@@ -1,0 +1,30 @@
+E:\Задание для Истока\123\Game\Game\bin\Debug\net6.0\Game.exe
+E:\Задание для Истока\123\Game\Game\bin\Debug\net6.0\Game.deps.json
+E:\Задание для Истока\123\Game\Game\bin\Debug\net6.0\Game.runtimeconfig.json
+E:\Задание для Истока\123\Game\Game\bin\Debug\net6.0\Game.dll
+E:\Задание для Истока\123\Game\Game\bin\Debug\net6.0\Game.pdb
+E:\Задание для Истока\123\Game\Game\obj\Debug\net6.0\Game.csproj.AssemblyReference.cache
+E:\Задание для Истока\123\Game\Game\obj\Debug\net6.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+E:\Задание для Истока\123\Game\Game\obj\Debug\net6.0\Game.AssemblyInfoInputs.cache
+E:\Задание для Истока\123\Game\Game\obj\Debug\net6.0\Game.AssemblyInfo.cs
+E:\Задание для Истока\123\Game\Game\obj\Debug\net6.0\Game.csproj.CoreCompileInputs.cache
+E:\Задание для Истока\123\Game\Game\obj\Debug\net6.0\Game.dll
+E:\Задание для Истока\123\Game\Game\obj\Debug\net6.0\refint\Game.dll
+E:\Задание для Истока\123\Game\Game\obj\Debug\net6.0\Game.pdb
+E:\Задание для Истока\123\Game\Game\obj\Debug\net6.0\Game.genruntimeconfig.cache
+E:\Задание для Истока\123\Game\Game\obj\Debug\net6.0\ref\Game.dll
+E:\Istok\GameInterface\Game\obj\Debug\net6.0\Game.csproj.AssemblyReference.cache
+E:\Istok\GameInterface\Game\obj\Debug\net6.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+E:\Istok\GameInterface\Game\obj\Debug\net6.0\Game.AssemblyInfoInputs.cache
+E:\Istok\GameInterface\Game\obj\Debug\net6.0\Game.AssemblyInfo.cs
+E:\Istok\GameInterface\Game\obj\Debug\net6.0\Game.csproj.CoreCompileInputs.cache
+E:\Istok\GameInterface\Game\obj\Debug\net6.0\Game.dll
+E:\Istok\GameInterface\Game\obj\Debug\net6.0\refint\Game.dll
+E:\Istok\GameInterface\Game\obj\Debug\net6.0\Game.pdb
+E:\Istok\GameInterface\Game\bin\Debug\net6.0\Game.exe
+E:\Istok\GameInterface\Game\bin\Debug\net6.0\Game.deps.json
+E:\Istok\GameInterface\Game\bin\Debug\net6.0\Game.runtimeconfig.json
+E:\Istok\GameInterface\Game\bin\Debug\net6.0\Game.dll
+E:\Istok\GameInterface\Game\bin\Debug\net6.0\Game.pdb
+E:\Istok\GameInterface\Game\obj\Debug\net6.0\Game.genruntimeconfig.cache
+E:\Istok\GameInterface\Game\obj\Debug\net6.0\ref\Game.dll
